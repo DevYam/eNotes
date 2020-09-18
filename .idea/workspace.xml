@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3a16d5e-a704-437c-a2e3-f51fa0556191" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/easynotes/EasyNotesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/EasyNotesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/easynotes/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/easynotes/model/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/easynotes/model/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/easy-notes-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/easy-notes-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/easy-notes-1.0.0.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/easy-notes-1.0.0.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-08-06T13-10-38_530-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.easynotes.EasyNotesApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.easynotes.EasyNotesApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.easynotes.EasyNotesApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.easynotes.EasyNotesApplicationTests.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\I516379\.m2\wrapper\dists\apache-maven-3.5.0-bin\6ps54u5pnnbbpr6ds9rppcc7iv\apache-maven-3.5.0" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hbLtGE90epUthwjbh33Xs7TEHb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\I516379\IdeaProjects\eNotes\src\main\resources" />
+      <recent name="C:\Users\I516379\IdeaProjects\eNotes\src\main\" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\I516379\IdeaProjects\eNotes\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EasyNotesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="easy-notes" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.easynotes.EasyNotesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3a16d5e-a704-437c-a2e3-f51fa0556191" name="Default Changelist" comment="" />
+      <created>1600275067214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600275067214</updated>
+      <workItem from="1600275068313" duration="4582000" />
+      <workItem from="1600281008221" duration="1558000" />
+      <workItem from="1600335474029" duration="2889000" />
+      <workItem from="1600394625544" duration="275000" />
+      <workItem from="1600407823397" duration="7340000" />
+      <workItem from="1600421950160" duration="1970000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1237" height="298" key="GridCell.Tab.0.bottom" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state width="1237" height="298" key="GridCell.Tab.0.center" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state width="1237" height="298" key="GridCell.Tab.0.left" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state width="1237" height="298" key="GridCell.Tab.0.right" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state width="1237" height="298" key="GridCell.Tab.1.bottom" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state width="1237" height="298" key="GridCell.Tab.1.center" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state width="1237" height="298" key="GridCell.Tab.1.left" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state width="1237" height="298" key="GridCell.Tab.1.right" timestamp="1600424493092">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="298" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1600424493092" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1600419759794">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1600419759794" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+---
+applications:
+  - name: enotes
+    host: enotes
+    path: target/easy-notes-1.0.0.jar
